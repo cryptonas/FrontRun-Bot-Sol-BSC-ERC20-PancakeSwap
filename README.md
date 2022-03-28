@@ -34,3 +34,14 @@ I got messages from people who didn't fund enough to cover gas fees and possible
 Gas fees average 0.006*2 (0.012 BNB). Better when there is no burn. If it targets token with 10% burn, that's another 0.04BNB taken off of 0.2BNB. Most tokens these days have some burn.
 Less than 0.2BNB doesn't give you much to work with.
 So in order for the bot to work properly, I recommend you to fund at least 0.5 BNB. If you want to have more earnings instead, set a value starting from 1 or 2 BNB or more
+
+bot for multiple decentralized exchanges (DEX)
+
+Pancakeswap (Binance Smart Chain (BSC))
+PYEswap (Binance Smart Chain (BSC))
+Uniswap (Ethereum (ETH))
+Sushiswap (Polygon (MATIC))
+Quickswap (Polygon (MATIC))
+Trader Joe (Avalanche (AVAX))
+Pangolin (Avalanche (AVAX))
+Spookyswap (Fantom(FTM))
